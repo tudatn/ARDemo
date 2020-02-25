@@ -58,6 +58,8 @@ public class TrackedImageInfoManager : MonoBehaviour
 
             // position and scale tracked image
             objectToShow.transform.position = trackedImage.transform.position;
+            objectToShow.transform.rotation = trackedImage.transform.rotation;
+            objectToShow.transform.Rotate(90f, 0, 0);
             objectToShow.transform.localScale = new Vector3(trackedImage.size.x, trackedImage.size.y, 1);
             objectToShow.transform.Translate(trackedImage.size.x + 0.01f, 0, 0);
 
