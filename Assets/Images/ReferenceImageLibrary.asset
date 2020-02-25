@@ -23,5 +23,35 @@ MonoBehaviour:
       m_GuidHigh: 3745781527226727896
     m_Size: {x: 0.2, y: 0.05691057}
     m_SpecifySize: 1
-    m_Name: AffinityBridge
+    m_Name: affinity_bridge
     m_Texture: {fileID: 2800000, guid: 1312b154a9101484d8bd91f873b0fb33, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4841450712983746728
+      m_GuidHigh: 5308940459638781362
+    m_SerializedTextureGuid:
+      m_GuidLow: 10719512154014214016
+      m_GuidHigh: 11680197435426215178
+    m_Size: {x: 0.1, y: 0.08982301}
+    m_SpecifySize: 1
+    m_Name: creative_commons
+    m_Texture: {fileID: 2800000, guid: 797fe7805b8294c30a1502e5ae6518a2, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4869730348219233303
+      m_GuidHigh: 7257329741561095102
+    m_SerializedTextureGuid:
+      m_GuidLow: 7262028174968673650
+      m_GuidHigh: 6453103355603664873
+    m_Size: {x: 0.1, y: 0.08583333}
+    m_SpecifySize: 1
+    m_Name: moveup
+    m_Texture: {fileID: 2800000, guid: 35e2d572e82664c7e93fa3d94f078e59, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4975906334531413556
+      m_GuidHigh: 13997366496211740094
+    m_SerializedTextureGuid:
+      m_GuidLow: 7240194804835171326
+      m_GuidHigh: 7810620549535858298
+    m_Size: {x: 0.1, y: 0.0920354}
+    m_SpecifySize: 1
+    m_Name: vancity
+    m_Texture: {fileID: 2800000, guid: 96d43bfe56d0647a7a7e73e201e6646c, type: 3}
