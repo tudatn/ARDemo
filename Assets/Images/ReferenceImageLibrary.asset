@@ -55,3 +55,13 @@ MonoBehaviour:
     m_SpecifySize: 1
     m_Name: vancity
     m_Texture: {fileID: 2800000, guid: 96d43bfe56d0647a7a7e73e201e6646c, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5538642048503622995
+      m_GuidHigh: 4313072244829627061
+    m_SerializedTextureGuid:
+      m_GuidLow: 10706778718937018305
+      m_GuidHigh: 15580409252250869114
+    m_Size: {x: 0.1, y: 0.1470437}
+    m_SpecifySize: 1
+    m_Name: magic_tree_house
+    m_Texture: {fileID: 2800000, guid: 96f3efc11e8494967a5d9f97aabb38d8, type: 3}

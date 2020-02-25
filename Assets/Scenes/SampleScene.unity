@@ -183,9 +183,8 @@ MonoBehaviour:
   m_WorldSpaceCanvasCamera: {fileID: 1734138646}
   m_TrackedObjects:
   - {fileID: 979676657553743761, guid: 5e918428d44ab41d693ecde906ff2b75, type: 3}
-  - {fileID: 3306944415520814855, guid: 5f187748a217d4c2ca21360d77dd9447, type: 3}
-  - {fileID: 3306944415520814855, guid: 9b7dd32c979414dcdaa75fc577c095d4, type: 3}
   - {fileID: 3306944415520814855, guid: b75abaa9e3e1a4ac9917e2f84dbc1fa4, type: 3}
+  - {fileID: 979676657553743761, guid: 9f3738471b51849fa82b20744817fe49, type: 3}
 --- !u!114 &95848305
 MonoBehaviour:
   m_ObjectHideFlags: 0
